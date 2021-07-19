@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5847c849-8ef1-4f05-ab28-c7144576bf80" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Cod3r/exercicios-SB/src/main/java/br/com/cod3r/exerciciosSB/controllers/CalculadoraController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cod3r/exercicios-SB/src/main/java/br/com/cod3r/exerciciosSB/controllers/ClienteController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cod3r/exercicios-SB/src/main/java/br/com/cod3r/exerciciosSB/controllers/MetodosHttpController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cod3r/exercicios-SB/src/main/java/br/com/cod3r/exerciciosSB/controllers/PrimeiroController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cod3r/exercicios-SB/src/main/java/br/com/cod3r/exerciciosSB/controllers/ProdutoController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cod3r/exercicios-SB/src/main/java/br/com/cod3r/exerciciosSB/model/entities/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cod3r/exercicios-SB/src/main/java/br/com/cod3r/exerciciosSB/model/entities/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cod3r/exercicios-SB/src/main/java/br/com/cod3r/exerciciosSB/model/repositories/ProdutoRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Cod3r/exercicios-SB/src/main/resources/static/FormularioHtml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/programador/src/main/java/com/example/demo/mmai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/ana/grama/demo/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/static/view" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/webapp/WEB-INF/jsp/hello" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/david/hrpayroll/feignClients/WorkerFeignClients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/CriarClienteDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programador/src/main/resources/templates/esqueci-senha.html" beforeDir="false" afterPath="$PROJECT_DIR$/programador/src/main/resources/templates/esqueci-senha.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programador/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/programador/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programador/src/main/resources/templates/inner-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/programador/src/main/resources/templates/inner-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/programador/src/main/resources/templates/tela-cadastro.html" beforeDir="false" afterPath="$PROJECT_DIR$/programador/src/main/resources/templates/tela-cadastro.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-payroll/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/david/hrpayroll/HrPayrollApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-payroll/src/main/java/com/david/hrpayroll/HrPayrollApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hr-worker/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../hr-worker/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/programador" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1uJeRDs3egCs6AoC8MRtG2SwRKX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../calculadora" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5847c849-8ef1-4f05-ab28-c7144576bf80" name="Default Changelist" comment="" />
+      <created>1624388109118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624388109118</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1624388959209">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1624388959209" />
+  </component>
+</project>
